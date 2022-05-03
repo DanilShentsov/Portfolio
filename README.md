@@ -1,2 +1,2 @@
 # Portfolio
-A place for my projects
+A place for my projects.
