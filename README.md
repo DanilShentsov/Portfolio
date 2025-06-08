@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DanilShentsov/banner.png" alt="Banner" width="80%"/>
+  <img src="https://raw.githubusercontent.com/DanilShentsov/assets/main/banner.png" alt="Banner" width="80%"/>
 </p>
 
 <h1 align="center">Привет, я Данил – местами программист <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/></h1>
