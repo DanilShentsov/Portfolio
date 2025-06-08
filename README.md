@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://github.com/DanilShentsov/DanilShentsov/blob/main/assets/banner.svg" alt="Danil Shentsov – Data & AI" width="80%"/>
+  <img src="https://raw.githubusercontent.com/DanilShentsov/banner.png" alt="Banner" width="80%"/>
 </p>
 
 <h1 align="center">Привет, я Данил – местами программист <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/></h1>
@@ -33,6 +33,7 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat&logo=docker&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
 ---
 
