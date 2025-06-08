@@ -1,2 +1,104 @@
-# Portfolio
-Place for my projects. Check the task file in each folder to get what the work was about.
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://github.com/DanilShentsov/DanilShentsov/blob/main/assets/banner.svg" alt="Danil Shentsov – Data & AI" width="80%"/>
+</p>
+
+<h1 align="center">Привет, я Данил — исследователь данных и AI <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/></h1>
+
+<p align="center">
+  <em>Аспирант • Big Data Analyst (Spark + Hadoop) • ML‑исследователь</em>
+</p>
+
+---
+
+## 🚀 Обо мне
+
+- 🎓 **PhD‑аспирант** по искусственному интеллекту и машинному обучению  
+- 💼 **Аналитик больших данных** (Spark + Hadoop) в финансовой сфере  
+- 🖥️ **Веб‑разработка на Django + React** — хобби и прокачка full‑stack навыков  
+
+---
+
+## 🧰 Стек технологий
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=fff)
+![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=000)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=fff)
+![ClickHouse](https://img.shields.io/badge/-ClickHouse-ffdc00?style=flat)
+![Apache Superset](https://img.shields.io/badge/-Apache%20Superset-1F66AB?style=flat&logo=apache)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat&logo=docker&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
+
+---
+
+## 📂 Проекты
+
+### 1. DS‑проекты *(репозиторий* **[Portfolio](https://github.com/DanilShentsov/Portfolio)** *)*
+
+- **Airports Passenger Flow** — EDA и прогнозирование пассажиропотока аэропортов  
+- **Diamonds ML** — прогноз цены бриллиантов  
+- **Income ML** — классификация уровня дохода (формат Kaggle)  
+- **Two MA Strategy** — бэктест торговой стратегии на двух скользящих средних  
+
+> Полный набор ноутбуков, слайдов и учебных материалов — в репозитории **Portfolio**.
+
+### 2. Веб‑проекты
+
+#### **Excursions Web App** — [ivangid.ru](http://ivangid.ru)
+**Стек:** Django · DRF · React · Tailwind · Gunicorn · Nginx
+
+Одностраничное приложение для бронирования индивидуальных экскурсий по Абхазии, Сочи и Югу России.
+
+| Ключевые функции | Подробнее |
+|------------------|-----------|
+| Загрузка изображений направлений через Django‑админку | `ImageField` + отображение на фронте |
+| Поиск с автокомплитом | задержка 300 мс, срабатывание от 3 символов |
+| Группировка по регионам | Абхазия — зелёный бейдж, Сочи — бирюзовый, Юг России — синий |
+| Форма бронирования | маршрут, имя, телефон → письмо‑уведомление |
+| Всплывающее окно «Подробнее» | вместо перехода на отдельную страницу |
+| Блок отзывов | «ламповая» форма + карточки отзывов |
+| Развёртывание | Gunicorn + Nginx, домен ivangid.ru |
+
+#### **Personal Page** — [danilshentsov.github.io](https://danilshentsov.github.io)
+Статическая визитка на GitHub Pages + мини‑игра.
+
+---
+
+## 🏆 Хакатоны
+
+| Год | Мероприятие | Роль / Итог |
+|-----|-------------|-------------|
+| 2024 | **AI Journey Sber** | Финалист трека DataOps для муниципальных данных |
+| 2023 | **Datathon Банка России** | 2‑е место: анализ кредитных историй |
+
+## 🎤 Конференции и доклады
+
+| Дата | Тема | Площадка |
+|------|------|----------|
+| 05.2025 | Создание DataOps‑конвейеров в государственном секторе | Youth Economic Forum |
+| 04.2025 | Стажировка: аналитика кредитных историй | Банк России |
+
+---
+
+## 📈 GitHub Статистика
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanilShentsov&show_icons=true&theme=default" alt="stats"/>
+</p>
+
+---
+
+## 📬 Связаться со мной
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilshentsov) 
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/yourhandle) 
+[![Email](https://img.shields.io/badge/Email-d14836?style=flat&logo=gmail&logoColor=white)](mailto:4991ly@gmail.com)
+
+---
+
+<sup>README сформирован с помощью ❤️ ChatGPT и Данила Шенцова • Последнее обновление: 08.06.2025</sup>
