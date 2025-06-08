@@ -3,19 +3,19 @@
   <img src="https://github.com/DanilShentsov/DanilShentsov/blob/main/assets/banner.svg" alt="Danil Shentsov – Data & AI" width="80%"/>
 </p>
 
-<h1 align="center">Привет, я Данил — исследователь данных и AI <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/></h1>
+<h1 align="center">Привет, я Данил – местами программист <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/></h1>
 
 <p align="center">
-  <em>Аспирант • Big Data Analyst (Spark + Hadoop) • ML‑исследователь</em>
+  <em>Аспирант • Big Data Analyst (Spark + Hadoop) • Веб-разработчик </em>
 </p>
 
 ---
 
 ## 🚀 Обо мне
 
-- 🎓 **PhD‑аспирант** по искусственному интеллекту и машинному обучению  
-- 💼 **Аналитик больших данных** (Spark + Hadoop) в финансовой сфере  
-- 🖥️ **Веб‑разработка на Django + React** — хобби и прокачка full‑stack навыков  
+- 🎓 **Аспирант ИТМО** по направлению "1.2.1.Искусственный интеллект и машинное обучение"  
+- 💼 **Аналитик больших данных** (Spark + Hadoop) в финансовой сфере – профессиональная деятельность  
+- 🖥️ **Fullstack‑разработка на Django + React** — в качестве увлечения и саморазвития
 
 ---
 
@@ -85,7 +85,7 @@
 
 ---
 
-## 📈 GitHub Статистика
+## 📈 GitHub-статистика
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DanilShentsov&show_icons=true&theme=default" alt="stats"/>
@@ -95,10 +95,6 @@
 
 ## 📬 Связаться со мной
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilshentsov) 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/yourhandle) 
-[![Email](https://img.shields.io/badge/Email-d14836?style=flat&logo=gmail&logoColor=white)](mailto:4991ly@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/ly_gunn) 
 
 ---
-
-<sup>README сформирован с помощью ❤️ ChatGPT и Данила Шенцова • Последнее обновление: 08.06.2025</sup>
