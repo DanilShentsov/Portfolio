@@ -6,7 +6,7 @@
 <h1 align="center">Привет, я Данил – местами программист <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/></h1>
 
 <p align="center">
-  <em>Аспирант • Big Data Analyst (Spark + Hadoop) • Веб-разработчик </em>
+  <em>Аспирант • Аналитик больших данных • Веб-разработчик </em>
 </p>
 
 ---
@@ -14,7 +14,7 @@
 ## 🚀 Обо мне
 
 - 🎓 **Аспирант ИТМО** по направлению 1.2.1. "Искусственный интеллект и машинное обучение"  
-- 💼 **Аналитик больших данных** (Spark + Hadoop) в финансовой сфере – профессиональная деятельность  
+- 💼 **Аналитик больших данных** (Spark + Hadoop + Python + Clickhouse + Superset) в государственном секторе
 - 🖥️ **Fullstack‑разработка на Django + React** — в качестве увлечения и саморазвития
 
 ---
