@@ -1,4 +1,4 @@
-<img width="1100" height="62" alt="image" src="https://github.com/user-attachments/assets/b74f3c44-6ef6-4e99-9b85-8178be5294b1" /><img width="1070" height="62" alt="image" src="https://github.com/user-attachments/assets/5caea894-9a40-4af2-9cdc-9797daa2a907" /><img width="841" height="97" alt="image" src="https://github.com/user-attachments/assets/ade48fcc-0cac-4342-aedd-c276ae9a074a" /><img width="915" height="62" alt="image" src="https://github.com/user-attachments/assets/e0614b15-2b48-4237-aea9-be9f4e5a43ac" /><!-- Profile Header -->
+<!-- Profile Header -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/DanilShentsov/Portfolio/main/banner.png" alt="Banner" width="80%"/>
 </p>
