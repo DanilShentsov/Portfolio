@@ -50,7 +50,7 @@
 
 ### 2. Веб‑проекты
 
-#### **Excursions Web App** — [ivangid.ru](http://ivangid.ru)
+#### **Сайт по заказу индивидуальных экскурсий** — [ivangid.ru](http://ivangid.ru)
 **Стек:** Django · DRF · React · Tailwind · Gunicorn · Nginx
 
 Одностраничное приложение для бронирования индивидуальных экскурсий по Абхазии, Сочи и Югу России.
@@ -65,7 +65,7 @@
 | Блок отзывов | «ламповая» форма + карточки отзывов |
 | Развёртывание | Gunicorn + Nginx, домен ivangid.ru |
 
-#### **Personal Page** — [danilshentsov.github.io](https://danilshentsov.github.io)
+#### **Персональная страница** — [danilshentsov.github.io](https://danilshentsov.github.io)
 Статическая визитка на GitHub Pages + мини‑игра.
 
 ---
