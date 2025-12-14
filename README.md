@@ -95,14 +95,6 @@
 
 ---
 
-## 📈 GitHub-статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanilShentsov&show_icons=true&theme=default" alt="stats"/>
-</p>
-
----
-
 ## 📬 Связаться со мной
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/ly_gunn) 
